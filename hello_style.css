@@ -1,0 +1,17 @@
+html,
+body {
+    height: 100%;
+}
+
+.dodger-lobster {
+    color: dodgerblue;
+    font-family: Lobster, Monospace;
+    font-size: 100px;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
