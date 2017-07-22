@@ -1,4 +1,4 @@
-# d3js_playground
+# D3.js playground
 
 Learning d3.js for data visualization
 
